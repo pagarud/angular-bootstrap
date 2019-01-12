@@ -1,5 +1,8 @@
 # angular-bootstrap
-Bootstrap an Angular-CLI project.
+
+Cheatsheet for bootstrapping an Angular-CLI project.
+
+**ANGULAR VERSION**
 
 Angular CLI: 7.1.4
 
