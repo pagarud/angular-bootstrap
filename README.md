@@ -81,5 +81,6 @@ Bootstrap an Angular-CLI project.
             ng g p pipes/mypipe
   
 1. Manage resources in a central location.
+
     * Copy resources to `my-new-app/src/assets`
     
