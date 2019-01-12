@@ -1,6 +1,18 @@
 # angular-bootstrap
 Bootstrap an Angular-CLI project.
 
+Angular CLI: 7.1.4
+
+| Package                      | Version |
+|:-----------------------------|:--------|
+| @angular-devkit/architect    | 0.11.4  |
+| @angular-devkit/core         | 7.1.4   |
+| @angular-devkit/schematics   | 7.1.4   |
+| @schematics/angular          | 7.1.4   |
+| @schematics/update           | 0.11.4  |
+| rxjs                         | 6.3.3   |
+| typescript                   | 3.1.6   |
+
 ### Steps
 1. Create a new Angular app:
   
